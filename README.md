@@ -12,10 +12,13 @@ Users can favorite Food Carts they like the most.
 
 ## Screenshots
 
-A portrait screenshot of the list of Food Carts
+A portrait screenshot of your current location and closest Food Carts to your location<br>
+<img src="screenshots/3.png" height="400px" />
+
+A portrait screenshot of the list of Food Carts<br>
 <img src="screenshots/1.png" height="400px" />
 
-A portrait screenshot of details of the Food Carts and ability to Favorite
+A portrait screenshot of details of the Food Carts and ability to Favorite<br>
 <img src="screenshots/2.png" height="400px" />
 
 ## Enjoy Spot-A-Cart :)
