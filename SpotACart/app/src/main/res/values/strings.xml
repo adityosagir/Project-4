@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spot-A-Cart</string>
+    <string name="title_activity_maps">Spot-A-Cart</string>
+    <string name="title_activity_cart_details">CartDetailsActivity</string>
+</resources>

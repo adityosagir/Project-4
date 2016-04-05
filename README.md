@@ -1,3 +1,21 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project Readme :fire:
 
-> Make sure to edit this file. You are required to provide a readme file describing what the app does, links to your Trello board, and any bugs that may exist!
+title | type | creator
+----- | ---- | -------
+Spot-A-Cart | Project 4 | Adityo Sagir (ADI - New York)
+
+## Overview
+
+Spot-A-Cart is a Food Cart app that allows users to look at Food Carts based on their location. It integrates the Google API to get your current location and populate Food Carts (name, address, and description).
+
+Users can favorite Food Carts they like the most.
+
+## Screenshots
+
+A portrait screenshot of the list of Food Carts
+<img src="screenshots/1.png" height="400px" />
+
+A portrait screenshot of details of the Food Carts and ability to Favorite
+<img src="screenshots/2.png" height="400px" />
+
+## Enjoy Spot-A-Cart :)
